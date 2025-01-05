@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .node {
+    padding: 10px;
+    background-color: #f1f1f1;
+    margin: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button {
+    margin: 5px;
+    padding: 5px 10px;
+  }
+  
